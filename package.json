@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Following Eric Elliot's tutorial on a node-express server",
+  "main": "express-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^3.1.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.0",
+    "supertest": "^2.0.1",
+    "tape": "^4.6.3"
+  },
+  "devDependencies": {
+    "supertest": "^2.0.1",
+    "tape": "^4.6.3"
+  }
+}
